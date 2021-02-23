@@ -26,7 +26,7 @@ SECRET_KEY = 'k_utd^grmi%54!f(ll3+tpl^2a51&p@&k*-e1j-e$d=6ke(vs5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['beckendtelegram.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['beckendtelegramtesting.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
